@@ -42,7 +42,7 @@ Luego,debemos asignarle una contraseña a nuestro usuario para tenerlo operativo
 Luego debemos preparar el ssh para poder conectar con el usuario que acabamos de crear, para ello debemos modificar la 
 configuracion de ssh en el archivo /etc/ssh/sshd_config y dejarlo como se muestra en la siguiente captura:
 
-<img src="https://dl.dropboxusercontent.com/u/14147051/Practica2/ssh.png"
+<img src="https://dl.dropboxusercontent.com/u/14147051/Practica2/ssh.png">
 
 Y aqui podemos ver como entrar por ssh:
 
